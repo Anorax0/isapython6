@@ -1,5 +1,5 @@
 zdanie = input('Podaj zdanie: ')
-#fsgdfg
+
 if 'a' in zdanie:
     print(("Jest mała litera a"))
 elif 'A' in zdanie:

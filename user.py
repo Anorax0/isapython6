@@ -1,4 +1,4 @@
-'''
+
 
 zdanie = '   ala ma kota    '
 
@@ -26,7 +26,7 @@ suma = a+b
 # print('Suma ' + str(a) + ' i ' +  str(b) + '  jest równa ' + str(suma))
 print(f'Suma liczby {a} i {b} jest równa {suma}.')
 
-'''
+
 zdanie1 = 'Ala ma kota. ' #\n
 zdanie2 = 'Ania ma psa.'
 # print(zdanie1 + zdanie2)
